@@ -1,2 +1,2 @@
 # Package
-VŨ WINNERDOG
+VŨWINNERDOG
